@@ -1,20 +1,10 @@
-# Unreal Engine 불필요한 파일
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-Build/
-.vscode/
-*.pdb
-*.sdf
+*.sln
 *.log
+*.tmp
+*.user
 *.cache
 *.db
-*.opendb
-*.opensdf
-*.tmp
-
-# Unreal Engine 프로젝트 파일 제외 (필요하면 제거)
-*.uproject.user
-*.ubtmake
-*.snap
